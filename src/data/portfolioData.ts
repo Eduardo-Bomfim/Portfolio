@@ -24,6 +24,13 @@ export const portfolioData: PortfolioData = {
       githubUrl: 'https://github.com/Eduardo-Bomfim/Sistema-de-login',
       liveUrl: ''
     },
+    {
+      title: 'Classificador de Spam',
+      description: 'Este é um projeto de estudo que implementa um classificador de spam para mensagens SMS, utilizando o algoritmo Multinomial Naive Bayes. O modelo foi treinado e avaliado usando a biblioteca Scikit-learn, alcançando uma alta precisão na detecção de mensagens de spam.',
+      tags: ['Python', 'Machine Learning', 'Scikit-learn', 'Pandas', 'NumPy'],
+      githubUrl: 'https://github.com/Eduardo-Bomfim/Classificador-de-Spam',
+      liveUrl: ''
+    },
   ],
   experience: [
     {
