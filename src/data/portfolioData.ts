@@ -33,7 +33,7 @@ export const portfolioData: PortfolioData = {
     },
     {
       title: 'ViajePlus - Chatbot de Roteiro de Viagem',
-      description: 'O ViajePlus é um assistente de viagens inteligente que cria roteiros personalizados em segundos. Através de uma interface de chat simples, o usuário informa um destino e a duração da viagem, e a inteligência artificial gera um plano detalhado, dia a dia, com sugestões de atividades, dicas locais e restaurantes, tudo organizado em tabelas para fácil visualização.',
+      description: 'O ViajePlus é um assistente de viagens inteligente que cria roteiros personalizados. Através de uma interface de chat simples, o usuário informa um destino e a duração da viagem, e a inteligência artificial gera um plano detalhado, dia a dia, com sugestões de atividades, dicas locais e restaurantes, tudo organizado em tabelas para fácil visualização.',
       tags: ['React', 'TypeScript', 'Python', 'Flask', 'LangChain', 'LLM', 'Hugging Face'],
       githubUrl: 'https://github.com/Eduardo-Bomfim/ViajePlus',
       liveUrl: ''
